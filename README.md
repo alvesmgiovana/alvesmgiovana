@@ -25,7 +25,6 @@
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-&nbsp;
 ## Contacts:
 
 <div> 
@@ -34,6 +33,9 @@
 <a href = "mailto:gi.alves.magalhaes@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alvesmgiovana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-
-    
+ 
+ &nbsp;
+ &nbsp;
+  
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/alvesmgiovana/alvesmgiovana/assets/146298988/f126fb28-ad3a-4f03-a99c-86e4faf62645"/>  
 
