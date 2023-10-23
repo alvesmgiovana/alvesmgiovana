@@ -3,10 +3,8 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am<strong> passionate</strong> about discovering new materials and using them to create high-quality solutions. Today I'm a beginner front developer focused on web development.</p>&nbsp;
-
- 
- &nbsp;
- &nbsp;
+<p align="center">I also have knowledge of design software such as <strong>Adobe Photoshop, Adobe Illustrator and Figma</strong>.</p>&nbsp;
+<p align="center">My favorite hobbies are: Contemporary Dance, Urban Dance and Ballet Dance.</p>&nbsp;
 
 ## My Skills
 
