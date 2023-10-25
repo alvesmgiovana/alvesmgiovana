@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/alvesmgiovana/alvesmgiovana/assets/146298988/82be8db2-ba66-49dc-8e0b-86c3f8973303" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤ solve great challenges using tech. <br><br> I am<strong> passionate</strong> about discovering new materials and using them to create high-quality solutions. Today I'm a beginner front developer focused on web development.</p>&nbsp;
+<p align="center">I ❤ solve great challenges using tech. <br><br> I am<strong> passionate</strong> about discovering new materials and using them to create high-quality solutions. Today I'm a student front developer focused on web development.</p>&nbsp;
 <p align="center">I also have knowledge of design software such as <strong>Adobe Photoshop, Adobe Illustrator and Figma</strong>.</p>&nbsp;
 <p align="center">My favorite hobbies are: Contemporary Dance, Urban Dance and Ballet Dance.</p>&nbsp;
 
